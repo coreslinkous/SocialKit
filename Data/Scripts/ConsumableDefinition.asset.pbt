@@ -13,6 +13,10 @@ Assets {
         String: "Tasty Consumable"
       }
       Overrides {
+        Name: "cs:description"
+        String: ""
+      }
+      Overrides {
         Name: "cs:category"
         String: "Food"
       }
